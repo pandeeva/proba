@@ -16,6 +16,7 @@ class ViewController: UIViewController {
 
     func doSome() {
         print("to do")
+        print("branchTwo")
     }
 }
 
